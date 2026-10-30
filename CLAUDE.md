@@ -1,3 +1,9 @@
+# Rules for all work
+
+1. For an unfamiliar feature, do not write it from scratch. First search GitHub for open-source projects that solve it, compare their approaches, then start.
+2. Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout instead.
+3. Make the decision that raises all three of user experience (UX), developer experience (DX) and agent experience (AX), without breaking anything.
+
 This project contains crawlers that import source data, such as sanctions lists and other KYC/AML screening data, into the FollowTheMoney entities. It puts an emphasis on data cleaning. Much of the input data is semi-structured information published by government bodies - often rife with inconsistencies, manual data entry errors, etc. Our goal is to bring strict interpretation to these source datasets.
 
 ### Repo layout
